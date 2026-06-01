@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Generated data — too large for GitHub
+parsed_docs.json
+training_pairs.jsonl
+finetune_ready.jsonl
+
+# Model weights — too large for GitHub
+checkpoints/
+space_flight_ai_model/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
+wandb/
